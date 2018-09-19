@@ -28,9 +28,9 @@ public class PlayQuickStart : MonoBehaviour {
         };
 
         // App Id
-        var APP_ID = "315XFAYyIGPbd98vHPCBnLre-9Nh9j0Va";
+        var APP_ID = "FQr8l8LLvdxIwhMHN77sNluX-9Nh9j0Va";
         // App Key
-        var APP_KEY = "Y04sM6TzhMSBmCMkwfI3FpHc";
+        var APP_KEY = "MJSm46Uu6LjF5eNmqfbuUmt6";
         // App 节点地区
         var APP_REGION = Region.EastChina;
         // 初始化
